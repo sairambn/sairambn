@@ -41,3 +41,4 @@ Open to **Bangalore · Hyderabad · Remote**.
 ---
 
 *Consistency > intensity. Shipping > talking.*
+*All Is Well*
