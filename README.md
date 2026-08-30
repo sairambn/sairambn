@@ -16,20 +16,20 @@ Event platform used on the day of the hackathon. Team registration, problem assi
 [Live](https://ai-thon-one.vercel.app) · [Repo](https://github.com/sairambn/AI-Competition)
 
 **Master Timetable Generator**  
-Browser-based constraint solver for teachers, classes and rooms. Conflict-free schedules with class/teacher views and CSV export.  
-[Repo](https://github.com/sairambn/master-timetable-generator)
+Browser based constraint solver for teachers, classes and rooms. Conflict free schedules with class and teacher views plus CSV export.  
+[Live](https://master-timetable-generator.vercel.app) · [Repo](https://github.com/sairambn/master-timetable-generator)
 
 **Result Analysis Portal**  
-Exam-cell tool: upload mark sheets → subject stats, toppers, arrear groups, and ready-to-use Excel reports.  
-[Repo](https://github.com/sairambn/aiml-result-analyzer)
+Exam cell tool: upload mark sheets, get subject stats, toppers, arrear groups, and ready to use Excel reports.  
+[Live](https://aiml-stats-portal.vercel.app) · [Repo](https://github.com/sairambn/aiml-stats-portal)
 
 **Client websites**  
-Live production sites for local businesses (SEO, Maps, WhatsApp/call CTAs). Still running.  
-[TotalFitnessStudio](https://github.com/sairambn/TotalFitnessStudio) · [Naiyapudai](https://naiyapudai.vercel.app)
+Live production sites for local businesses with SEO, Maps, and WhatsApp or call CTAs. Still running.  
+[Total Fitness Studio](https://total-fitness-studio-livid.vercel.app) · [Naiyapudai](https://naiyapudai.vercel.app)
 
 **Daily DSA**  
 One NeetCode 250 problem every day. Public tracking.  
-[neetcode-250-daily](https://github.com/sairambn/neetcode-250-daily) ★5
+[neetcode-250-daily](https://github.com/sairambn/neetcode-250-daily)
 
 ---
 
