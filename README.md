@@ -11,6 +11,10 @@ Open to **Bangalore · Hyderabad · Remote**
 
 ### What I’ve shipped
 
+**Paperwhite**  
+Free, private white-background tool. Drop up to 15 product photos, remove the background in the browser, download everything as one ZIP. No account, no upload, free forever.  
+[Live](https://paperwhite-bg.vercel.app) · [Repo](https://github.com/sairambn/pure-white-background)
+
 **AI Problem Solve-a-Thon**  
 Event platform used on the day of the hackathon. Team registration, problem assignment by team size, solution collection via GitHub PRs.  
 [Live](https://ai-thon-one.vercel.app) · [Repo](https://github.com/sairambn/AI-Competition)
