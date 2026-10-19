@@ -59,6 +59,6 @@ Shipping over talking.
 Real users over perfect demos.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairambn&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="145" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairambn&theme=transparent&hide_border=true" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sairambn&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairambn&theme=transparent&hide_border=true" height="160" />
 </p>
