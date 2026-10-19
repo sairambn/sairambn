@@ -18,27 +18,35 @@ Open to **Bangalore · Hyderabad · Remote**
 ### What I’ve shipped
 
 **Paperwhite**  
-Free private white-background tool. Drop up to 15 product photos, remove backgrounds in the browser, download everything as one ZIP. No account, no upload, free forever.  
+Free private white-background tool. Drop up to 15 product photos, remove backgrounds entirely in the browser, download everything as one ZIP. No account, no upload, free forever. Built with TanStack Start + React 19 + on-device background removal.  
 [Live](https://paperwhite-bg.vercel.app) · [Repo](https://github.com/sairambn/pure-white-background)
 
 **AI Problem Solve-a-Thon**  
-Live event platform used on the day of the college hackathon. Team registration, problem assignment by team size, solution collection via GitHub PRs.  
+Live event platform used on the day of the college hackathon (Dept. of AI & ML, Jeppiaar Engineering College). Team registration, problem assignment by team size, solution collection, and winner tracking. Real submissions ran through it.  
 [Live](https://ai-thon-one.vercel.app) · [Repo](https://github.com/sairambn/AI-Competition)
 
 **Master Timetable Generator**  
-Browser-based constraint solver for teachers, classes and rooms. Conflict-free schedules with class/teacher views and CSV export.  
+Fully client-side conflict-free timetable builder for schools and colleges. Teachers never double-booked, subjects balanced across the week, class/teacher views, CSV export and print. No backend, no account.  
 [Live](https://master-timetable-generator.vercel.app) · [Repo](https://github.com/sairambn/master-timetable-generator)
 
 **Result Analysis Portal**  
-Exam-cell tool: upload mark sheets, get subject stats, toppers, arrear groups, and ready-to-use Excel reports.  
+Exam-cell ready tool. Upload mark sheets → get subject stats, toppers, arrear groups, category breakdowns, and professional FRONT + MARK Excel reports with borders and colour coding. Everything runs in the browser.  
 [Live](https://aiml-stats-portal.vercel.app) · [Repo](https://github.com/sairambn/aiml-stats-portal)
 
-**Client websites**  
-Live production sites for local businesses with SEO, Maps, and WhatsApp/call CTAs. Still running and converting.  
-[Total Fitness Studio](https://total-fitness-studio-livid.vercel.app) · [Naiyapudai](https://naiyapudai.vercel.app)
+**AIML Result Analyzer**  
+University-grade result analysis for Anna University AIML students. Grade mapping, GPA, clear-pass %, arrear dashboard, subject pass rates, and CSV export. 100% client-side.  
+[Repo](https://github.com/sairambn/aiml-result-analyzer)
+
+**Total Fitness Studio**  
+Production marketing site for a 4.9★ Chromepet gym (first Naiyapudai client). SSR, Schema.org local SEO, Google Maps alignment, call/WhatsApp CTAs, sticky conversion elements. Still live and converting.  
+[Live](https://total-fitness-studio-livid.vercel.app) · [Repo](https://github.com/sairambn/TotalFitnessStudio)
+
+**Naiyapudai**  
+Digital growth studio site for local Tamil Nadu brands. High-performance websites, Google Search & Maps ranking, performance marketing.  
+[Live](https://naiyapudai.vercel.app) · [Repo](https://github.com/sairambn/naiyapudai-growth-studio)
 
 **Daily DSA**  
-One NeetCode 250 problem every day. Public progress tracking in Python, Java and C++.  
+One NeetCode 250 problem every day. Solutions in Python, Java and C++ with clean structure. Public progress tracking.  
 [neetcode-250-daily](https://github.com/sairambn/neetcode-250-daily) · **56 / 250 done**
 
 ---
