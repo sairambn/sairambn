@@ -39,7 +39,7 @@ Live production sites for local businesses with SEO, Maps, and WhatsApp/call CTA
 
 **Daily DSA**  
 One NeetCode 250 problem every day. Public progress tracking in Python, Java and C++.  
-[neetcode-250-daily](https://github.com/sairambn/neetcode-250-daily) · 56 / 250 done
+[neetcode-250-daily](https://github.com/sairambn/neetcode-250-daily) · **56 / 250 done**
 
 ---
 
@@ -57,3 +57,8 @@ One NeetCode 250 problem every day. Public progress tracking in Python, Java and
 Consistency over intensity.  
 Shipping over talking.  
 Real users over perfect demos.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairambn&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="145" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairambn&theme=transparent&hide_border=true" height="145" />
+</p>
